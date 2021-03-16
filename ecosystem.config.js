@@ -3,7 +3,7 @@ module.exports = {
     name: 'server',
     script: 'node bin/http.js',
     env: {
-      PORT: 3000,
+      PORT: 80,
     }
   }]
 };
